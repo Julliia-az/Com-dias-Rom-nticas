@@ -51,3 +51,5 @@ Esse projeto está licenciado sob a licença MIT.
 Agradeço a todos que contribuíram para este projeto! 
 
 **Divirta-se!**
+
+Aplicação Vercel: https://comediasromanticas.vercel.app/
